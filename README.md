@@ -2,7 +2,7 @@
 
 👨‍💻 I'm passionate about programming and always eager to learn new technologies.
 
-🌱 Currently, I'm learning new technologies related to .NET C#.
+🌱 Currently, I'm .NET Developer.
 
 💡 I'm interested in collaborating on Web Application Solutions.
 
